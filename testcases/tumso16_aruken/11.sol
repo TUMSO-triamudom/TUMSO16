@@ -1,0 +1,1 @@
+5,5,16,16-tetrabutyl-3,3,18,18-tetraethyl-8,8,13,13-tetraheptyl-7,7,14,14-tetrahexyl-2,2,19,19-tetramethyl-10,10,11,11-tetranonyl-9,9,12,12-tetraoctyl-6,6,15,15-tetrapentyl-4,4,17,17-tetrapropylicosane

@@ -1,0 +1,1 @@
+5,7-diethyl-4,4,7-trimethyl-5,6-dipropyldecane
